@@ -1,0 +1,8 @@
+ $('.container img,.container dd').eq(0).show();
+ 只能作用于一个，不能作用于dd
+
+ javasript 变量不能加在字符里
+
+ n += 1;
+
+ .slow()
